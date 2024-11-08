@@ -1,0 +1,13 @@
+# Ignore the following Unity-generated folders:
+[Ll]ibrary/
+[Tt]emp/
+.obj/
+# Unity3D generated files
+*.unityproj
+*.unitypackage
+*.sln
+*.user
+*.userprefs
+# Windows
+Thumbs.db
+ehthumbs.db
